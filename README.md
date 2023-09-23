@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/github-usman/github-usman/blob/main/image_background_banner.gif)
+![MasterHead](https://github.com/github-usman/github-usman/blob/main/FULL STACK DEVELOPER.gif)
 
 
 <h1 align="center">Hi 👋, I'm Usman Ali Ansari</h1>
