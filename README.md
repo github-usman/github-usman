@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Usman Ali Ansari</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<div align="center"> 🔭 I’m currently working on **NFT Marketing System Using Blockchain 3.0**</div>
+<div align="center"> 🔭 Working on Products Near You in Your market</div>
 
 <h3 align="center">-----------&nbsp;&nbsp;&nbsp;&nbsp;Languages and Tools&nbsp;&nbsp;&nbsp;&nbsp;-----------</h3>
 <p align="center">  
