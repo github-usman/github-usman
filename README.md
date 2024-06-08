@@ -18,6 +18,6 @@
   <!-- background   images -->
 
 ```math
-\ce{$&#x5C;unicode[monospace; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.4; background-size: cover; background-image: url('https://github.com/byeoon/byeoon/assets/47872200/b763f486-7834-49b3-985b-0793ea0ca58a');]{x0000}$}
+\ce{$&#x5C;unicode[monospace; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.4; background-size: cover; background-image: url('./bg-anime.jpg');]{x0000}$}
 ```
 
