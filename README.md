@@ -18,6 +18,6 @@
   <!-- background   images -->
 
 ```math
-\ce{$&#x5C;unicode[monospace; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.4; background-size: cover; background-image: url('https://github.com/github-usman/github-usman/blob/main/bg-anime.jpg');]{x0000}$}
+\ce{$&#x5C;unicode[monospace; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.4; background-size: cover; background-image: url('https://i.pinimg.com/originals/46/d4/ca/46d4ca608d8fa8405762a693e8a4e014.jpg');]{x0000}$}
 ```
 
