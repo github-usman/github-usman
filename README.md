@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Usman Ali Ansari</h1>
 <h3 align="center">A passionate Full stack developer from UP, India</h3>
+<h6 align="center">can be contacted by email :📧ansariusman.dev@gmail.com</h1>
 
 <div align="center"> 🔭  currently working at registerkaro</div>
 
