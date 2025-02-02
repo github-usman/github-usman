@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full stack developer from UP, India</h3>
 <h6 align="center">can be contacted by email :📧ansariusman.dev@gmail.com</h1>
 
-<div align="center"> 🔭  currently working at registerkaro</div>
+<div align="center"> 🔭  currently working at Coders Boutique Pvt Ltd.</div>
 
 <hr/>
 
